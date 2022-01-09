@@ -2,6 +2,7 @@
  Bioinformatics Algorithms course term project
  
 Getting Started
+
 Install the latest Visual Studio Code.
 
 Install the latest .NET 6 SDK

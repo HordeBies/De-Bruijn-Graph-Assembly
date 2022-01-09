@@ -19,4 +19,4 @@
 
 7. Open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.
 
-8. Open `DeBruijnGraphStats.ipynb` file and if not selected, select Python3 as Kernel
+8. Open `DeBruijnGraphStats.ipynb` file and if not selected, select Python3 as Kernel.

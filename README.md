@@ -13,4 +13,4 @@
 
 4. Install the .NET Interactive Notebooks extension from the marketplace.
 
-5. open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.
+5. Open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.

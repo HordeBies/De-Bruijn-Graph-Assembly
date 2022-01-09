@@ -1,5 +1,7 @@
 # De Bruijn Graph Assembly
- Bioinformatics Algorithms course term project
+ Bioinformatics Algorithms course term project.
+ 
+ Please refer to `Project Proposal.pdf` and `Genome_Assembly-De_Bruijn_Graph.pptx` files.
  
 # Getting Started
 

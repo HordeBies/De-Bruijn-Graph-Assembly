@@ -7,10 +7,16 @@
 
 1. Install the latest Visual Studio Code.
 
-2. Install the latest .NET 6 SDK.
+2. Install the latest Python3.
 
-3. Install the dotnet interactive global tool.
+3. Install the latest Jupyter Notebooks.
 
-4. Install the .NET Interactive Notebooks extension from the marketplace.
+4. Install the latest .NET 6 SDK.
 
-5. Open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.
+5. Install the dotnet interactive global tool.
+
+6. Install the .NET Interactive Notebooks extension from the marketplace.
+
+7. Open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.
+
+8. Open `DeBruijnGraphStats.ipynb` file and if not selected, select Python3 as Kernel

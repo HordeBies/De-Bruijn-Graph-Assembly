@@ -1,15 +1,14 @@
 # De Bruijn Graph Assembly
  Bioinformatics Algorithms course term project
  
-Getting Started
+# Getting Started
 
-Install the latest Visual Studio Code.
+1. Install the latest Visual Studio Code.
 
-Install the latest .NET 6 SDK
+2. Install the latest .NET 6 SDK.
 
-Install the dotnet interactive global tool using:
-> dotnet tool install --global Microsoft.dotnet-interactive
+3. Install the dotnet interactive global tool.
 
-Install the .NET Interactive Notebooks extension from the marketplace.
+4. Install the .NET Interactive Notebooks extension from the marketplace.
 
-open "cs_process_data.ipynb" file and if not selected, select .NET Interactive as Kernel
+5. open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.

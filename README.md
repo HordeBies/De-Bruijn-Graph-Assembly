@@ -20,3 +20,11 @@
 7. Open `cs_process_data.ipynb` file and if not selected, select .NET Interactive as Kernel.
 
 8. Open `DeBruijnGraphStats.ipynb` file and if not selected, select Python3 as Kernel.
+
+# To run nogui executable
+
+1. navigate to "nogui" sub folder
+
+2. ./Bio_Project.exe {optional fileName=genom.fna} {optional k=1000} 
+
+i.e. ./Bio_Project.exe genom.fna 1000
